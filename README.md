@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madisonlogan75
 - 👀 I’m interested in marine conservation
 - 🌱 I’m currently working on completeing the AES program.
-- 💞️ I’m looking to collaborate on any and all new ideas. I am open to learning.
+- 💞️ I’m from Savannah, Ga.
 - 📫 How to reach me madison.logan75@uky.edu
 
 <!---
