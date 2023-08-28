@@ -2,7 +2,7 @@
 - 👀 I’m interested in marine conservation
 - 🌱 I’m currently working on completeing the AES program.
 - 💞️ I’m from Savannah, Ga.
-- 📫 How to reach me madison.logan75@uky.edu
+- 📫 How to reach me madison.logan@uky.edu
 
 <!---
 madisonlogan75/madisonlogan75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
